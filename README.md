@@ -31,7 +31,7 @@ I'd like to discuss great ideas to build modern and creative web apps and mobile
 
 <hr/>
 
-<p align="left">Core Skills<p>
+<h3 align="left">Core Skills<h3>
 <ul>
   <li>Frontend: Vue.js, TypeScript, React.js, Gatsby.js, Quasar</li>
   <li>BlockChain: Web3.js, Ether.js, Ethereum, Solana, DeFi, Dex, NFT</li>
@@ -42,11 +42,12 @@ I'd like to discuss great ideas to build modern and creative web apps and mobile
 </ul>
 
 <hr/>
+<div align="center">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bilalameen-dev&show_icons=true&locale=en&layout=compact" alt="bilalameen-dev" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bilalameen-dev&show_icons=true&locale=en" alt="bilalameen-dev" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bilalameen-dev&" alt="bilalameen-dev" /></p>
+</div>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bilalameen-dev&" alt="bilalameen-dev" /></p>
 
 <p><img src="https://raw.githubusercontent.com/thepiyushmalhotra/thepiyushmalhotra/ea2117aaf7e035901a1ed94bbff0dfcb69af5caf/github-contribution-grid-snake.svg" width="100%"/></p>
 
