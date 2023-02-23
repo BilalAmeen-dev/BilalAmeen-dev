@@ -31,7 +31,7 @@ I'd like to discuss great ideas to build modern and creative web apps and mobile
 
 <hr/>
 
-<h3 align="left">Core Skills<h3>
+<h3 align="left">Core Skills</h3>
 <ul>
   <li>Frontend: Vue.js, TypeScript, React.js, Gatsby.js, Quasar</li>
   <li>BlockChain: Web3.js, Ether.js, Ethereum, Solana, DeFi, Dex, NFT</li>
