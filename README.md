@@ -6,9 +6,9 @@ I'd like to discuss great ideas to build modern and creative web apps and mobile
 <hr/>
 
 <div style="display:flex;justify-content:space-around;align-items:center;">
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bilalameen-dev" alt="bilalameen-dev" /></a> </p>
+<span align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bilalameen-dev" alt="bilalameen-dev" /></a> </span>
 
-<p align="left"> <a href="https://twitter.com/bilalameen_dev" target="blank"><img src="https://img.shields.io/twitter/follow/bilalameen_dev?logo=twitter&style=for-the-badge" alt="bilalameen_dev" /></a> </p> <p align="left"> <img src="https://komarev.com/ghpvc/?username=bilalameen-dev&label=Profile%20views&color=0e75b6&style=flat" alt="bilalameen-dev" /> </p>
+<span align="left"> <a href="https://twitter.com/bilalameen_dev" target="blank"><img src="https://img.shields.io/twitter/follow/bilalameen_dev?logo=twitter&style=for-the-badge" alt="bilalameen_dev" /></a> </p> <p align="left"> <img src="https://komarev.com/ghpvc/?username=bilalameen-dev&label=Profile%20views&color=0e75b6&style=flat" alt="bilalameen-dev" /> </span>
 </div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
