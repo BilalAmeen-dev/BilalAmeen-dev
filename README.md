@@ -5,11 +5,11 @@
 I'd like to discuss great ideas to build modern and creative web apps and mobile apps to change the world.</p>
 <hr/>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bilalameen-dev" alt="bilalameen-dev" style="width:100%;" /></a> </p>
 <div style="display:flex;justify-content:space-around;align-items:center;">
-<span align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bilalameen-dev" alt="bilalameen-dev" /></a> </span>
-
-<span align="left"> <a href="https://twitter.com/bilalameen_dev" target="blank"><img src="https://img.shields.io/twitter/follow/bilalameen_dev?logo=twitter&style=for-the-badge" alt="bilalameen_dev" /></a> </p> <p align="left"> <img src="https://komarev.com/ghpvc/?username=bilalameen-dev&label=Profile%20views&color=0e75b6&style=flat" alt="bilalameen-dev" /> </span>
+<span align="left"> <a href="https://twitter.com/bilalameen_dev" target="blank"><img src="https://img.shields.io/twitter/follow/bilalameen_dev?logo=twitter&style=for-the-badge" alt="bilalameen_dev" /></a> </span> <span align="left"> <img src="https://komarev.com/ghpvc/?username=bilalameen-dev&label=Profile%20views&color=0e75b6&style=flat" alt="bilalameen-dev" /> </span>
 </div>
+<hr/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/bilalameen2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="bilalameen2" height="30" width="40" /></a>
