@@ -37,5 +37,5 @@ I'd like to discuss great ideas to build modern and creative web apps and mobile
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bilalameen-dev&" alt="bilalameen-dev" /></p>
 
-<p><img src="https://raw.githubusercontent.com/thepiyushmalhotra/thepiyushmalhotra/ea2117aaf7e035901a1ed94bbff0dfcb69af5caf/github-contribution-grid-snake.svg"/></p>
+<p><img src="https://raw.githubusercontent.com/thepiyushmalhotra/thepiyushmalhotra/ea2117aaf7e035901a1ed94bbff0dfcb69af5caf/github-contribution-grid-snake.svg" width="100%"/></p>
 
