@@ -1,7 +1,7 @@
 
-<img src="https://raw.githubusercontent.com/BilalAmeen-dev/BilalAmeen-dev/main/Black%20Technology%20LinkedIn%20Banner(1).png"/>
-<h1 align="center">Hello, folks! <img width="40" src="https://raw.githubusercontent.com/promathieuthiry/promathieuthiry/master/wave.gif"/></h1>
-<h3 align="center">A passionate frontend developer</h3>
+<img style="margin-bottom:0;" src="https://raw.githubusercontent.com/BilalAmeen-dev/BilalAmeen-dev/main/Black%20Technology%20LinkedIn%20Banner(1).png"/>
+<h1 style="margin-top:5px;" align="center">Hello, folks! <img width="40" src="https://raw.githubusercontent.com/promathieuthiry/promathieuthiry/master/wave.gif"/></h1>
+<p align="center">My name is Ahmad Bilal Amin and I'm a Full Stack and Front-End enthusiastic developer. I'm from Pakistan. You can find my portfolio at mathieuthiry.fr as well as on codepen.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bilalameen-dev&label=Profile%20views&color=0e75b6&style=flat" alt="bilalameen-dev" /> </p>
 
@@ -30,4 +30,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bilalameen-dev&show_icons=true&locale=en" alt="bilalameen-dev" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bilalameen-dev&" alt="bilalameen-dev" /></p>
+
+<p><img src="https://raw.githubusercontent.com/thepiyushmalhotra/thepiyushmalhotra/ea2117aaf7e035901a1ed94bbff0dfcb69af5caf/github-contribution-grid-snake.svg"/></p>
 
