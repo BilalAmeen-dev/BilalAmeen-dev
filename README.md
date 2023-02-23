@@ -31,6 +31,17 @@ I'd like to discuss great ideas to build modern and creative web apps and mobile
 
 <hr/>
 
+<p align="left">Core Skills<p>
+<ul>
+  <li>Frontend: Vue.js, TypeScript, React.js, Gatsby.js, Quasar</li>
+  <li>BlockChain: Web3.js, Ether.js, Ethereum, Solana, DeFi, Dex, NFT</li>
+  <li>Libraries : Bootstrap, TailwindCSS, Material UI, AntD, RSuite</li>
+    <li>Backend : PHP / Laravel, Codeigniter, CI, Node.js / Express, Python / Django</li>
+  <li>Database : MySQL, MongoDB, PostgreSQL, MariaDB, SQLite</li>
+    <li>Languages : JavaScript, TypeScript, ReScript, HTML5, CSS/SCSS/LESS, PHP, Python, Solidity</li>
+</ul>
+
+<hr/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bilalameen-dev&show_icons=true&locale=en&layout=compact" alt="bilalameen-dev" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bilalameen-dev&show_icons=true&locale=en" alt="bilalameen-dev" /></p>
