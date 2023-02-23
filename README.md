@@ -3,17 +3,19 @@
 <h1 style="margin-top:5px;" align="center">Hello, folks! <img width="40" src="https://raw.githubusercontent.com/promathieuthiry/promathieuthiry/master/wave.gif"/></h1>
 <p align="center">My name is Ahmad Bilal Amin and I'm a Full Stack and Front-End enthusiastic developer. I'm from Pakistan. As a full stack developer, I have good experience in building web, web apps, and app development.
 I'd like to discuss great ideas to build modern and creative web apps and mobile apps to change the world.</p>
+<hr/>
 
+<div style="display:flex;justify-content:space-around;align-items:center;">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bilalameen-dev" alt="bilalameen-dev" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/bilalameen_dev" target="blank"><img src="https://img.shields.io/twitter/follow/bilalameen_dev?logo=twitter&style=for-the-badge" alt="bilalameen_dev" /></a> </p> <p align="left"> <img src="https://komarev.com/ghpvc/?username=bilalameen-dev&label=Profile%20views&color=0e75b6&style=flat" alt="bilalameen-dev" /> </p>
-
+</div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/bilalameen2" target="blank">Codepen: <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="bilalameen2" height="30" width="40" /></a>
-<a href="https://dev.to/bilalameen_dev" target="blank">Dev.to: <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="bilalameen_dev" height="30" width="40" /></a>
-<a href="https://twitter.com/bilalameen_dev" target="blank">Twitter: <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bilalameen_dev" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/bilalameen-dev" target="blank">LinkedIn: <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bilalameen-dev" height="30" width="40" /></a>
+<a href="https://codepen.io/bilalameen2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="bilalameen2" height="30" width="40" /></a>
+<a href="https://dev.to/bilalameen_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="bilalameen_dev" height="30" width="40" /></a>
+<a href="https://twitter.com/bilalameen_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bilalameen_dev" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/bilalameen-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bilalameen-dev" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users//users/13993556/ahmad-bilal-ameen" target="blank">Stackoverflow: <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="/users/13993556/ahmad-bilal-ameen" height="30" width="40" /></a>
 <a href="https://fb.com/bilalameen.dev" target="blank">Facebook: <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bilalameen.dev" height="30" width="40" /></a>
 <a href="https://instagram.com/bilalameen_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bilalameen_dev" height="30" width="40" /></a>
