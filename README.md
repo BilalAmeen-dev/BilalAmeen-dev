@@ -1,5 +1,6 @@
 
-<h1 align="center">Hello, folks! <img src="https://raw.githubusercontent.com/promathieuthiry/promathieuthiry/master/wave.gif"/></h1>
+<img src="https://raw.githubusercontent.com/BilalAmeen-dev/BilalAmeen-dev/main/Black%20Technology%20LinkedIn%20Banner(1).png"/>
+<h1 align="center">Hello, folks! <img width="40" src="https://raw.githubusercontent.com/promathieuthiry/promathieuthiry/master/wave.gif"/></h1>
 <h3 align="center">A passionate frontend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bilalameen-dev&label=Profile%20views&color=0e75b6&style=flat" alt="bilalameen-dev" /> </p>
