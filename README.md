@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ahmad Bilal Ameen</h1>
+
+<h1 align="center">Hello, folks! <img src="https://raw.githubusercontent.com/promathieuthiry/promathieuthiry/master/wave.gif"/></h1>
 <h3 align="center">A passionate frontend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bilalameen-dev&label=Profile%20views&color=0e75b6&style=flat" alt="bilalameen-dev" /> </p>
